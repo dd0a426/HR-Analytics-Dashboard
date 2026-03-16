@@ -60,6 +60,51 @@ Age group and education level also influence attrition patterns.
 
 Department-based filtering helps identify attrition trends across departments.
 
+# Business Questions Solved
+
+This HR Analytics Dashboard answers the following important HR business questions:
+
+1. What is the total number of employees and attrition in the company?
+
+Answer:
+
+Total Employees: 1470
+
+Total Attrition: 237
+
+Attrition Rate: 16.1%
+
+2. Which job roles have the highest employee attrition?
+
+Answer:
+The highest attrition is observed in:
+
+Laboratory Technician – 62
+
+Sales Executive – 57
+
+Research Scientist – 47
+
+These roles may require attention from HR for employee retention strategies.
+
+3. Which salary slab experiences the highest attrition?
+
+Answer:
+Employees with salary Up to 5K show the highest attrition compared to other salary slabs.
+
+4. Which age group has the highest attrition?
+
+Answer:
+The 26–35 age group has the highest number of employees leaving the organization.
+
+5. What is the gender distribution in employee attrition?
+
+Answer:
+
+Male: 767
+
+Female: 489
+
 # 📷 Dashboard Preview
 <img width="1352" height="751" alt="Snapshot of Sales Dashboard" src="https://github.com/dd0a426/HR-Analytics-Dashboard/blob/main/HR%20Analytics.png" />
 
