@@ -67,6 +67,13 @@ Department-based filtering helps identify attrition trends across departments.
 
 
 
-📌 Conclusion
+# 📌 Conclusion
 
 This project demonstrates how Power BI can be used to analyze HR data and identify workforce trends. The dashboard provides interactive insights that help HR departments monitor employee attrition and make informed strategic decisions.
+
+# 👨‍💻 Developed By
+******************
+
+Abhay Kumar
+B.Tech CSE (8th Semester)
+Aspiring Data Analyst | Passionate about Data & Problem Solving
