@@ -61,8 +61,7 @@ Age group and education level also influence attrition patterns.
 Department-based filtering helps identify attrition trends across departments.
 
 # 📷 Dashboard Preview
-<img width="1352" height="751" alt="Snapshot of Sales Dashboard" src="https://github.com/dd0a426/HR-Analytics-Dashboard/blob/main/HR%20Analytics.png
-" />
+<img width="1352" height="751" alt="Snapshot of Sales Dashboard" src="https://github.com/dd0a426/HR-Analytics-Dashboard/blob/main/HR%20Analytics.png" />
 
 
 
