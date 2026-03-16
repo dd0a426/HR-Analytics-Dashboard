@@ -5,7 +5,9 @@ Developed by Abhay Kumar (B.Tech CSE)
 This project presents an HR Analytics Dashboard built using Microsoft Power BI to analyze employee data and understand workforce trends within an organization. The dashboard helps HR teams identify patterns related to employee attrition, demographics, job roles, and salary distribution.
 
 The goal of this project is to convert raw HR data into interactive visual insights that support better decision-making and workforce planning.
-
+## Dataset Used
+<a href="https://github.com/dd0a426/HR-Analytics-Dashboard/blob/main/HR_Analytics.csv">Dataset</a>
+  
 # 🎯 Objectives
 
 Analyze employee attrition and attrition rate.
